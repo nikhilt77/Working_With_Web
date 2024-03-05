@@ -1,0 +1,20 @@
+*{
+    background-color: antiquewhite;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+}
+#red{
+    color: red;
+}
+#green{
+   color: green;
+}
+#blue{
+   color: blue;
+}
+#yellow{
+   color: yellow;
+}
+#orange{
+    color: orange;
+}
