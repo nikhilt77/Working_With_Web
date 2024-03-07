@@ -1,0 +1,20 @@
+*{
+    background-color: black;
+    text-transform: uppercase;
+}
+.post{
+    color: white;
+    margin-top:30px;
+    margin-bottom: 40px;
+    margin-left:30px;
+    text-align: center;;
+}
+.img{
+    padding: 20px white;
+    border:10px solid white;
+    border-radius: 10px;;
+}
+h1{
+    color:crimson;
+    font-family: 'Courier New', Courier, monospace; 
+}
